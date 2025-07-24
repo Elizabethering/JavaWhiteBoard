@@ -43,7 +43,7 @@ This is a lightweight, multi-user, real-time collaborative whiteboard project bu
 
 1.  **克隆仓库到本地**
     ```bash
-    git clone [https://github.com/EEE/JavaWhiteBoard.git](https://github.com/Elizabethering/JavaWhiteBoard.git)
+    git clone [https://github.com/Elizabethering/JavaWhiteBoard.git](https://github.com/Elizabethering/JavaWhiteBoard.git)
     cd JavaWhiteBoard
     ```
 
@@ -80,7 +80,7 @@ This is a lightweight, multi-user, real-time collaborative whiteboard project bu
 
 ```
 src/main/java/
-└── com/yourcompany/whiteboard/
+└── com/Elizabethering/whiteboard/
     ├── client/       # 客户端所有代码：GUI、网络连接、事件处理
     ├── server/       # 服务器端所有代码：监听、并发处理、消息广播
     └── shared/       # 共享代码：主要用于定义客户端与服务器之间的通信协议，如 DrawAction 数据对象
