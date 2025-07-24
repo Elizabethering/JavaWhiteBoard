@@ -1,5 +1,3 @@
-# JavaWhiteBoard
-一个完整的Java Socket白板程序实现
 # 🎨 Java 实时协作白板 (Java Real-Time Collaborative Whiteboard)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -12,7 +10,7 @@ This is a lightweight, multi-user, real-time collaborative whiteboard project bu
 
 ## 🌟 项目演示 (Live Demo)
 
-*(强烈建议您在此处放置一个 GIF 动图来展示项目运行效果)*
+*(强烈建议您在此处放置一个 GIF 动图来展示项目运行效果，例如，将录制的GIF文件放在项目下的`docs/`目录中)*
 
 ![项目动态演示](docs/demo.gif)
 
@@ -45,8 +43,8 @@ This is a lightweight, multi-user, real-time collaborative whiteboard project bu
 
 1.  **克隆仓库到本地**
     ```bash
-    git clone [https://github.com/](https://github.com/)[your-github-username]/[your-repo-name].git
-    cd [your-repo-name]
+    git clone [https://github.com/EEE/JavaWhiteBoard.git](https://github.com/EEE/JavaWhiteBoard.git)
+    cd JavaWhiteBoard
     ```
 
 2.  **使用 Maven 进行编译和打包**
