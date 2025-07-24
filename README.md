@@ -43,7 +43,7 @@ This is a lightweight, multi-user, real-time collaborative whiteboard project bu
 
 1.  **克隆仓库到本地**
     ```bash
-    git clone [https://github.com/EEE/JavaWhiteBoard.git](https://github.com/EEE/JavaWhiteBoard.git)
+    git clone [https://github.com/EEE/JavaWhiteBoard.git](https://github.com/Elizabethering/JavaWhiteBoard.git)
     cd JavaWhiteBoard
     ```
 
