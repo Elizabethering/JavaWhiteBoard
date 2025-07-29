@@ -36,7 +36,7 @@
 
 * **核心语言**: `Java 8`
 * **图形界面 (GUI)**: `Java Swing`
-* **网络通信**: `Java Sockets`, `Object Serialization` for data transfer
+* **网络通信**: `Java Sockets` `Object Serialization` 用于 data transfer
 * **数据库**: `SQLite` (通过 `sqlite-jdbc` 驱动)
 * **构建工具**: `Apache Maven`
 * **日志**: `Logback`
