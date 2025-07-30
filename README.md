@@ -47,7 +47,7 @@
 
 * `JDK 1.8`
 * `Apache Maven`
-* `IDEA 2022.3.3`
+* `IntelliJ IDEA 2022.3.3`
 
 ### 步骤
 
